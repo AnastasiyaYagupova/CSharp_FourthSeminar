@@ -64,5 +64,3 @@ Random random = new Random();
 
 var str = string.Join(" ", Array);
 Console.WriteLine($"10 интересных чисел: {str}");
-
-
